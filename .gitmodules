@@ -1,0 +1,63 @@
+[submodule "eShopOnContainers"]
+	path = eShopOnContainers
+	url = git@github.com:dotnet-architecture/eShopOnContainers.git
+[submodule "eShopOnContainersAI"]
+	path = eShopOnContainersAI
+	url = https://github.com/dotnet-architecture/eShopOnContainersAI
+[submodule "hedvig/claims-service"]
+	path = hedvig/claims-service
+	url = git@github.com:HedvigInsurance/claims-service.git
+[submodule "hedvig/api-gateway"]
+	path = hedvig/api-gateway
+	url = git@github.com:HedvigInsurance/api-gateway.git
+[submodule "hedvig/curator"]
+	path = hedvig/curator
+	url = git@github.com:HedvigInsurance/curator.git
+[submodule "hedvig/product-pricing"]
+	path = hedvig/product-pricing
+	url = git@github.com:HedvigInsurance/product-pricing.git
+[submodule "hedvig/bot-service"]
+	path = hedvig/bot-service
+	url = git@github.com:HedvigInsurance/bot-service.git
+[submodule "hedvig/kibana-proxy"]
+	path = hedvig/kibana-proxy
+	url = git@github.com:HedvigInsurance/kibana-proxy.git
+[submodule "hedvig/payment-service"]
+	path = hedvig/payment-service
+	url = git@github.com:HedvigInsurance/payment-service.git
+[submodule "hedvig/member-registry-service"]
+	path = hedvig/member-registry-service
+	url = git@github.com:HedvigInsurance/member-registry-service.git
+[submodule "hedvig/notification-service"]
+	path = hedvig/notification-service
+	url = git@github.com:HedvigInsurance/notification-service.git
+[submodule "hedvig/web-next"]
+	path = hedvig/web-next
+	url = git@github.com:HedvigInsurance/web-next.git
+[submodule "hedvig/web"]
+	path = hedvig/web
+	url = git@github.com:HedvigInsurance/web.git
+[submodule "hedvig/asset-tracker"]
+	path = hedvig/asset-tracker
+	url = git@github.com:HedvigInsurance/asset-tracker.git
+[submodule "hedvig/back-office"]
+	path = hedvig/back-office
+	url = git@github.com:HedvigInsurance/back-office.git
+[submodule "hedvig/gatekeeper"]
+	path = hedvig/gatekeeper
+	url = git@github.com:HedvigInsurance/gatekeeper.git
+[submodule "hedvig/meerkat"]
+	path = hedvig/meerkat
+	url = git@github.com:HedvigInsurance/meerkat.git
+[submodule "hedvig/mockId"]
+	path = hedvig/mockId
+	url = git@github.com:HedvigInsurance/mockId.git
+[submodule "istio-tutorial"]
+	path = istio-tutorial
+	url = git@github.com:redhat-developer-demos/istio-tutorial.git
+[submodule "eda-tutorial"]
+	path = eda-tutorial
+	url = git@github.com:redhat-developer-demos/eda-tutorial.git
+[submodule "kubernetes-lab"]
+	path = kubernetes-lab
+	url = git@github.com:redhat-developer-demos/kubernetes-lab.git
