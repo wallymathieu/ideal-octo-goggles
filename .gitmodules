@@ -61,3 +61,6 @@
 [submodule "kubernetes-lab"]
 	path = kubernetes-lab
 	url = git@github.com:redhat-developer-demos/kubernetes-lab.git
+[submodule "gke-enterprise-demo"]
+	path = gke-enterprise-demo
+	url = git@github.com:GoogleCloudPlatform/gke-enterprise-demo.git
