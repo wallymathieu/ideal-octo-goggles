@@ -64,3 +64,6 @@
 [submodule "gke-enterprise-demo"]
 	path = gke-enterprise-demo
 	url = git@github.com:GoogleCloudPlatform/gke-enterprise-demo.git
+[submodule "microservices-demo"]
+	path = microservices-demo
+	url = git@github.com:GoogleCloudPlatform/microservices-demo.git
