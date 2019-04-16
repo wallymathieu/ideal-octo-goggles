@@ -67,3 +67,6 @@
 [submodule "microservices-demo"]
 	path = microservices-demo
 	url = git@github.com:GoogleCloudPlatform/microservices-demo.git
+[submodule "stellar-go"]
+	path = stellar-go
+	url = git@github.com:stellar/go.git
