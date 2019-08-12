@@ -73,3 +73,6 @@
 [submodule "SimplCommerce"]
 	path = SimplCommerce
 	url = git@github.com:simplcommerce/SimplCommerce.git
+[submodule "BroadleafCommerce"]
+	path = BroadleafCommerce
+	url = git@github.com:BroadleafCommerce/BroadleafCommerce.git
