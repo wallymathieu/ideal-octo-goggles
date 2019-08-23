@@ -76,3 +76,6 @@
 [submodule "BroadleafCommerce"]
 	path = BroadleafCommerce
 	url = git@github.com:BroadleafCommerce/BroadleafCommerce.git
+[submodule "nopCommerce"]
+	path = nopCommerce
+	url = git@github.com:nopSolutions/nopCommerce.git
