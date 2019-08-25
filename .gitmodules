@@ -79,3 +79,6 @@
 [submodule "nopCommerce"]
 	path = nopCommerce
 	url = git@github.com:nopSolutions/nopCommerce.git
+[submodule "modular-monolith-with-ddd"]
+	path = modular-monolith-with-ddd
+	url = git@github.com:kgrzybek/modular-monolith-with-ddd.git
