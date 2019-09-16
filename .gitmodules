@@ -82,3 +82,6 @@
 [submodule "modular-monolith-with-ddd"]
 	path = modular-monolith-with-ddd
 	url = git@github.com:kgrzybek/modular-monolith-with-ddd.git
+[submodule "NorthwindTraders"]
+	path = NorthwindTraders
+	url = git@github.com:JasonGT/NorthwindTraders.git
