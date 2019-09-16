@@ -1,87 +1,84 @@
 [submodule "eShopOnContainers"]
-	path = eShopOnContainers
+	path = ms/eShopOnContainers
 	url = git@github.com:dotnet-architecture/eShopOnContainers.git
 [submodule "eShopOnContainersAI"]
-	path = eShopOnContainersAI
+	path = ms/eShopOnContainersAI
 	url = https://github.com/dotnet-architecture/eShopOnContainersAI
 [submodule "hedvig/claims-service"]
-	path = hedvig/claims-service
+	path = ms/hedvig/claims-service
 	url = git@github.com:HedvigInsurance/claims-service.git
 [submodule "hedvig/api-gateway"]
-	path = hedvig/api-gateway
+	path = ms/hedvig/api-gateway
 	url = git@github.com:HedvigInsurance/api-gateway.git
 [submodule "hedvig/curator"]
-	path = hedvig/curator
+	path = ms/hedvig/curator
 	url = git@github.com:HedvigInsurance/curator.git
 [submodule "hedvig/product-pricing"]
-	path = hedvig/product-pricing
+	path = ms/hedvig/product-pricing
 	url = git@github.com:HedvigInsurance/product-pricing.git
 [submodule "hedvig/bot-service"]
-	path = hedvig/bot-service
+	path = ms/hedvig/bot-service
 	url = git@github.com:HedvigInsurance/bot-service.git
 [submodule "hedvig/kibana-proxy"]
-	path = hedvig/kibana-proxy
+	path = ms/hedvig/kibana-proxy
 	url = git@github.com:HedvigInsurance/kibana-proxy.git
 [submodule "hedvig/payment-service"]
-	path = hedvig/payment-service
+	path = ms/hedvig/payment-service
 	url = git@github.com:HedvigInsurance/payment-service.git
 [submodule "hedvig/member-registry-service"]
-	path = hedvig/member-registry-service
+	path = ms/hedvig/member-registry-service
 	url = git@github.com:HedvigInsurance/member-registry-service.git
 [submodule "hedvig/notification-service"]
-	path = hedvig/notification-service
+	path = ms/hedvig/notification-service
 	url = git@github.com:HedvigInsurance/notification-service.git
 [submodule "hedvig/web-next"]
-	path = hedvig/web-next
+	path = ms/hedvig/web-next
 	url = git@github.com:HedvigInsurance/web-next.git
 [submodule "hedvig/web"]
-	path = hedvig/web
+	path = ms/hedvig/web
 	url = git@github.com:HedvigInsurance/web.git
 [submodule "hedvig/asset-tracker"]
-	path = hedvig/asset-tracker
+	path = ms/hedvig/asset-tracker
 	url = git@github.com:HedvigInsurance/asset-tracker.git
 [submodule "hedvig/back-office"]
-	path = hedvig/back-office
+	path = ms/hedvig/back-office
 	url = git@github.com:HedvigInsurance/back-office.git
 [submodule "hedvig/gatekeeper"]
-	path = hedvig/gatekeeper
+	path = ms/hedvig/gatekeeper
 	url = git@github.com:HedvigInsurance/gatekeeper.git
 [submodule "hedvig/meerkat"]
-	path = hedvig/meerkat
+	path = ms/hedvig/meerkat
 	url = git@github.com:HedvigInsurance/meerkat.git
 [submodule "hedvig/mockId"]
-	path = hedvig/mockId
+	path = ms/hedvig/mockId
 	url = git@github.com:HedvigInsurance/mockId.git
 [submodule "istio-tutorial"]
-	path = istio-tutorial
+	path = ms/istio-tutorial
 	url = git@github.com:redhat-developer-demos/istio-tutorial.git
 [submodule "eda-tutorial"]
-	path = eda-tutorial
+	path = ms/eda-tutorial
 	url = git@github.com:redhat-developer-demos/eda-tutorial.git
 [submodule "kubernetes-lab"]
-	path = kubernetes-lab
+	path = ms/kubernetes-lab
 	url = git@github.com:redhat-developer-demos/kubernetes-lab.git
 [submodule "gke-enterprise-demo"]
-	path = gke-enterprise-demo
+	path = ms/gke-enterprise-demo
 	url = git@github.com:GoogleCloudPlatform/gke-enterprise-demo.git
 [submodule "microservices-demo"]
-	path = microservices-demo
+	path = ms/microservices-demo
 	url = git@github.com:GoogleCloudPlatform/microservices-demo.git
-[submodule "stellar-go"]
-	path = stellar-go
-	url = git@github.com:stellar/go.git
 [submodule "SimplCommerce"]
-	path = SimplCommerce
+	path = mm/SimplCommerce
 	url = git@github.com:simplcommerce/SimplCommerce.git
 [submodule "BroadleafCommerce"]
-	path = BroadleafCommerce
+	path = mm/BroadleafCommerce
 	url = git@github.com:BroadleafCommerce/BroadleafCommerce.git
 [submodule "nopCommerce"]
-	path = nopCommerce
+	path = mm/nopCommerce
 	url = git@github.com:nopSolutions/nopCommerce.git
 [submodule "modular-monolith-with-ddd"]
-	path = modular-monolith-with-ddd
+	path = mm/modular-monolith-with-ddd
 	url = git@github.com:kgrzybek/modular-monolith-with-ddd.git
 [submodule "NorthwindTraders"]
-	path = NorthwindTraders
+	path = mm/NorthwindTraders
 	url = git@github.com:JasonGT/NorthwindTraders.git
