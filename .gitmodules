@@ -82,3 +82,6 @@
 [submodule "NorthwindTraders"]
 	path = mm/NorthwindTraders
 	url = git@github.com:JasonGT/NorthwindTraders.git
+[submodule "mm/eShopOnWeb"]
+	path = mm/eShopOnWeb
+	url = https://github.com/dotnet-architecture/eShopOnWeb
