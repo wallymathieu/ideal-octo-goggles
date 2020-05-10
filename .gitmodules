@@ -85,3 +85,6 @@
 [submodule "mm/eShopOnWeb"]
 	path = mm/eShopOnWeb
 	url = https://github.com/dotnet-architecture/eShopOnWeb
+[submodule "mm/EquinoxProject"]
+	path = mm/EquinoxProject
+	url = git@github.com:EduardoPires/EquinoxProject.git
