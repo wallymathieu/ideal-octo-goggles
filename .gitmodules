@@ -88,3 +88,6 @@
 [submodule "mm/EquinoxProject"]
 	path = mm/EquinoxProject
 	url = git@github.com:EduardoPires/EquinoxProject.git
+[submodule "mm/ddd-net-ef-core"]
+	path = mm/ddd-net-ef-core
+	url = git@github.com:kimcu-on-thenet/ddd-net-ef-core.git
