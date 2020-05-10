@@ -80,7 +80,7 @@
 	path = mm/modular-monolith-with-ddd
 	url = git@github.com:kgrzybek/modular-monolith-with-ddd.git
 [submodule "NorthwindTraders"]
-	path = mm/NorthwindTraders
+	path = m/NorthwindTraders
 	url = git@github.com:JasonGT/NorthwindTraders.git
 [submodule "mm/eShopOnWeb"]
 	path = m/eShopOnWeb
