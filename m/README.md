@@ -1,0 +1,3 @@
+# Monolithic apps
+
+Monolithic applications
