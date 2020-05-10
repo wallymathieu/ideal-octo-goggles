@@ -86,8 +86,8 @@
 	path = mm/eShopOnWeb
 	url = https://github.com/dotnet-architecture/eShopOnWeb
 [submodule "mm/EquinoxProject"]
-	path = mm/EquinoxProject
+	path = m/EquinoxProject
 	url = git@github.com:EduardoPires/EquinoxProject.git
 [submodule "mm/ddd-net-ef-core"]
-	path = mm/ddd-net-ef-core
+	path = m/ddd-net-ef-core
 	url = git@github.com:kimcu-on-thenet/ddd-net-ef-core.git
