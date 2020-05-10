@@ -71,10 +71,10 @@
 	path = mm/SimplCommerce
 	url = git@github.com:simplcommerce/SimplCommerce.git
 [submodule "BroadleafCommerce"]
-	path = mm/BroadleafCommerce
+	path = m/BroadleafCommerce
 	url = git@github.com:BroadleafCommerce/BroadleafCommerce.git
 [submodule "nopCommerce"]
-	path = mm/nopCommerce
+	path = m/nopCommerce
 	url = git@github.com:nopSolutions/nopCommerce.git
 [submodule "modular-monolith-with-ddd"]
 	path = mm/modular-monolith-with-ddd
@@ -83,7 +83,7 @@
 	path = mm/NorthwindTraders
 	url = git@github.com:JasonGT/NorthwindTraders.git
 [submodule "mm/eShopOnWeb"]
-	path = mm/eShopOnWeb
+	path = m/eShopOnWeb
 	url = https://github.com/dotnet-architecture/eShopOnWeb
 [submodule "mm/EquinoxProject"]
 	path = m/EquinoxProject
