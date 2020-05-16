@@ -94,3 +94,6 @@
 [submodule "m/inf-3910-webapp"]
 	path = m/inf-3910-webapp
 	url = git@github.com:juselius/inf-3910-webapp.git
+[submodule "m/lab-hexagon-csharp"]
+	path = m/lab-hexagon-csharp
+	url = git@github.com:wallymathieu/lab-hexagon-csharp.git
