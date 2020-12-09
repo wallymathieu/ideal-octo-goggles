@@ -97,3 +97,6 @@
 [submodule "m/lab-hexagon-csharp"]
 	path = m/lab-hexagon-csharp
 	url = git@github.com:wallymathieu/lab-hexagon-csharp.git
+[submodule "mm/IDDD_Samples"]
+	path = ms/IDDD_Samples
+	url = git@github.com:VaughnVernon/IDDD_Samples.git
