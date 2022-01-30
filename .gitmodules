@@ -61,3 +61,9 @@
 [submodule "p/Domain-Driven-Design-Example"]
 	path = p/Domain-Driven-Design-Example
 	url = git@github.com:zkavtaskin/Domain-Driven-Design-Example.git
+[submodule "ms/coolstore-microservices"]
+	path = ms/coolstore-microservices
+	url = git@github.com:vietnam-devs/coolstore-microservices.git
+[submodule "ms/clean-architecture-manga"]
+	path = ms/clean-architecture-manga
+	url = git@github.com:ivanpaulovich/clean-architecture-manga.git
