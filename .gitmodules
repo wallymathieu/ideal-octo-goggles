@@ -55,3 +55,9 @@
 [submodule "p/IDDD_Samples_NET"]
 	path = p/IDDD_Samples_NET
 	url = git@github.com:VaughnVernon/IDDD_Samples_NET.git
+[submodule "p/EventSourcing.NetCore"]
+	path = p/EventSourcing.NetCore
+	url = git@github.com:oskardudycz/EventSourcing.NetCore.git
+[submodule "p/Domain-Driven-Design-Example"]
+	path = p/Domain-Driven-Design-Example
+	url = git@github.com:zkavtaskin/Domain-Driven-Design-Example.git
