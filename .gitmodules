@@ -67,3 +67,12 @@
 [submodule "ms/clean-architecture-manga"]
 	path = ms/clean-architecture-manga
 	url = git@github.com:ivanpaulovich/clean-architecture-manga.git
+[submodule "p/OpenCQRS"]
+	path = p/OpenCQRS
+	url = https://github.com/lucabriguglia/OpenCQRS
+[submodule "p/ExtCore"]
+	path = p/ExtCore
+	url = git@github.com:ExtCore/ExtCore.git
+[submodule "m/clean-architecture-demo"]
+	path = m/clean-architecture-demo
+	url = git@github.com:matthewrenze/clean-architecture-demo.git
