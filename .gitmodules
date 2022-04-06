@@ -79,3 +79,6 @@
 [submodule "ms/dotnetcore-microservices-poc"]
 	path = ms/dotnetcore-microservices-poc
 	url = git@github.com:asc-lab/dotnetcore-microservices-poc.git
+[submodule "ms/ftgo-application"]
+	path = ms/ftgo-application
+	url = git@github.com:microservices-patterns/ftgo-application.git
