@@ -76,3 +76,6 @@
 [submodule "m/clean-architecture-demo"]
 	path = m/clean-architecture-demo
 	url = git@github.com:matthewrenze/clean-architecture-demo.git
+[submodule "ms/dotnetcore-microservices-poc"]
+	path = ms/dotnetcore-microservices-poc
+	url = git@github.com:asc-lab/dotnetcore-microservices-poc.git
