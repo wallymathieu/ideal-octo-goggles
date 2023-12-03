@@ -82,3 +82,6 @@
 [submodule "ms/ftgo-application"]
 	path = ms/ftgo-application
 	url = git@github.com:microservices-patterns/ftgo-application.git
+[submodule "ms/eShop"]
+	path = ms/eShop
+	url = git@github.com:dotnet/eShop.git
