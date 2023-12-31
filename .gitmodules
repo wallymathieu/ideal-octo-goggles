@@ -85,6 +85,3 @@
 [submodule "ms/eShop"]
 	path = ms/eShop
 	url = git@github.com:dotnet/eShop.git
-[submodule "p/lab-hexagon-csharp"]
-	path = p/lab-hexagon-csharp
-	url = git@github.com:wallymathieu/lab-hexagon-csharp.git
