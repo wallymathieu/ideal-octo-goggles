@@ -88,6 +88,3 @@
 [submodule "p/lab-hexagon-csharp"]
 	path = p/lab-hexagon-csharp
 	url = git@github.com:wallymathieu/lab-hexagon-csharp.git
-[submodule "p/lab-hexagon-java"]
-	path = p/lab-hexagon-java
-	url = git@github.com:fabricioepa/lab-hexagon-java.git
